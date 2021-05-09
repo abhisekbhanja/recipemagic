@@ -1,0 +1,6 @@
+input:focus{
+    border: 2px solid red;
+}
+.validbtn{
+    color: rgb(211, 5, 5);
+}

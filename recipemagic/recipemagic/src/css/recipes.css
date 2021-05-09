@@ -1,0 +1,47 @@
+
+
+
+.recipesearch{
+    background-color: rgb(248, 146, 12);
+    color: white;
+    overflow-x: hidden;
+}
+
+
+.searchrecipes{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+.recipes:hover{
+    cursor: pointer;
+}
+
+.recipe-img{
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.recipelist{
+    background-color: plum;
+}
+
+.jumbotron{
+    background-image: url("https://images.unsplash.com/photo-1524526967094-4448faba6b81?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+    height: 1000px;
+}
+.banner{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+    display: block;
+}
+
+.navbar{
+    background-color: mediumpurple;
+}
