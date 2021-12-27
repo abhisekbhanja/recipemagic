@@ -22,7 +22,7 @@ useEffect(() => {
   //fetch recipe from api
   const fetchrecipe = async () => {
     const url = await fetch(
-      `https://api.edamam.com/search?q=${search}&app_id=a124e242&app_key=e1450e7bede052bb5393524b97dcb528&from=0&to=100&calories=591-722&health=alcohol-free`
+      `https://api.edamam.com/search?q=${search}&app_id=a124e242&app_key=yourapikey&from=0&to=100&calories=591-722&health=alcohol-free`
     );
     const recipedata = await url.json();
 
